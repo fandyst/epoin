@@ -16,7 +16,12 @@ Fitur - fitur :
 - User Admin (guru/staff yang bertugas untuk mengakses sistem ini).
 
 
+
+
 Salam,
+
 Irfan Fediyanto
+
 Website : www.fandyst.com
+
 Email   : me@fandyst.com
