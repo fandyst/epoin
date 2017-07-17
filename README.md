@@ -16,7 +16,10 @@ Fitur - fitur :
 - User Admin (guru/staff yang bertugas untuk mengakses sistem ini).
 
 
-
+Login Awal :
+NIP : 111111111111111111
+Password : 123456
+Tambahkan User Admin baru melalui halaman User & silakan hapus User awal.
 
 Salam,
 
