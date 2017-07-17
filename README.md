@@ -17,8 +17,11 @@ Fitur - fitur :
 
 
 Login Awal :
+
 NIP : 111111111111111111
+
 Password : 123456
+
 Tambahkan User Admin baru melalui halaman User & silakan hapus User awal.
 
 Salam,
