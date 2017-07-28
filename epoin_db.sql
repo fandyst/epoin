@@ -18,12 +18,6 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
 
---
--- Database: `proyek_skripsi_epoin`
---
-CREATE DATABASE IF NOT EXISTS `proyek_skripsi_epoin` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `proyek_skripsi_epoin`;
-
 -- --------------------------------------------------------
 
 --
