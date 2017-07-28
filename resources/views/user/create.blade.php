@@ -44,7 +44,7 @@
           <div class="control-group @if ($errors->has('password'))error @endif">
             <label class="control-label" for="password">Password :</label>
             <div class="controls">
-              <input type="text" class="span11" name="password" id="password" placeholder="Password"/>
+              <input type="password" class="span11" name="password" id="password" placeholder="Password"/>
                 @if ($errors->has('password')) <span class="help-block"> {{ $errors->first('password') }}</span> @endif
             </div>
           </div>
